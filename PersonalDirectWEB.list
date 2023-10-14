@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,dicmusic.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-KEYWORD,hetzner
-DOMAIN-SUFFIX,qobuz.com
+#DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,99cankao.com
 DOMAIN-SUFFIX,oneprovider.com
 DOMAIN-SUFFIX,streaming-qobuz-std.akamaized.net
