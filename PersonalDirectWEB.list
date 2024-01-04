@@ -17,3 +17,17 @@ DOMAIN-KEYWORD,plex
 DOMAIN-SUFFIX,empornium.is
 DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,monikadesign.uk
+
+# paper-Rule (from shxiaj)
+DOMAIN-SUFFIX,manual.gromacs.org
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-SUFFIX,ccdc.cam.ac.uk
+DOMAIN-KEYWORD,wiley
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,iresearchbook.cn
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,pubs.acs.org
+DOMAIN-SUFFIX,scitation.org
