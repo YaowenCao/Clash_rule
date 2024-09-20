@@ -1,0 +1,5 @@
+# NAME: Plex Proxy
+# AUTHOR: OnoyaAn
+
+DOMAIN,metadata.provider.plex.tv
+DOMAIN,app.plex.tv
