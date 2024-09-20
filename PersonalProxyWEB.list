@@ -3,3 +3,7 @@
 
 DOMAIN-SUFFIX,doubledouble.top
 DOMAIN-SUFFIX,dzcdn.net
+
+# Plex
+DOMAIN,metadata.provider.plex.tv
+DOMAIN,app.plex.tv
