@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,azusa.wiki
 
 # Plex
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,amazonaws.com
 
 # paper-Rule (from shxiaj)
 DOMAIN-SUFFIX,manual.gromacs.org
