@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,dzcdn.net
 DOMAIN,downloads.plex.tv
 DOMAIN,metadata-static.plex.tv
 DOMAIN,metadata.provider.plex.tv
+DOMAIN,music.provider.plex.tv
+DOMAIN,vod.provider.plex.tv
 DOMAIN,meta.plex.tv
 DOMAIN,app.plex.tv
 DOMAIN,lyricfind.plex.tv
