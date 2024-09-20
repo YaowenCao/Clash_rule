@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,azusa.wiki
 
 # Plex
+DOMAIN,v4.plex.tv
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,amazonaws.com
