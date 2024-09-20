@@ -1,23 +1,23 @@
 # NAME: Personal Direct WEB
 # AUTHOR: OnoyaAn
 
+# PT
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,ah.chddiy.xyz
 DOMAIN-SUFFIX,hn.chddiy.xyz
 DOMAIN-SUFFIX,dicmusic.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-KEYWORD,hetzner
-#DOMAIN-SUFFIX,qobuz.com
-DOMAIN-SUFFIX,99cankao.com
 DOMAIN-SUFFIX,oneprovider.com
 DOMAIN-SUFFIX,streaming-qobuz-std.akamaized.net
 DOMAIN-SUFFIX,invites.fun
-DOMAIN-SUFFIX,pubsub.plex.tv
-DOMAIN-KEYWORD,plex
 DOMAIN-SUFFIX,empornium.is
 DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,azusa.wiki
+
+# Plex
+DOMAIN-SUFFIX,plex.tv
 
 # paper-Rule (from shxiaj)
 DOMAIN-SUFFIX,manual.gromacs.org
