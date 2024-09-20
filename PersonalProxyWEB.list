@@ -11,6 +11,8 @@ DOMAIN,metadata.provider.plex.tv
 DOMAIN,meta.plex.tv
 DOMAIN,app.plex.tv
 DOMAIN,lyricfind.plex.tv
+DOMAIN,images.plex.tv
+DOMAIN-SUFFIX,thetvdb.com
 DOMAIN,songkick.plex.tv 
 DOMAIN,lastfm.freetls.fastly.net 
 
