@@ -5,8 +5,14 @@ DOMAIN-SUFFIX,doubledouble.top
 DOMAIN-SUFFIX,dzcdn.net
 
 # Plex
+DOMAIN,downloads.plex.tv
+DOMAIN,metadata-static.plex.tv
 DOMAIN,metadata.provider.plex.tv
+DOMAIN,meta.plex.tv
 DOMAIN,app.plex.tv
+DOMAIN,lyricfind.plex.tv
+DOMAIN,songkick.plex.tv 
+DOMAIN,lastfm.freetls.fastly.net 
 
 # Sub Conv
 DOMAIN,sub.xeton.dev
