@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,amazonaws.com
 
+# VPS
+DOMAIN-SUFFIX,cloudcone.com.cn
+
 # paper-Rule (from shxiaj)
 DOMAIN-SUFFIX,manual.gromacs.org
 DOMAIN-KEYWORD,sci-hub
