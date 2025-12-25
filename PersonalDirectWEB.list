@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,azusa.wiki
 DOMAIN-SUFFIX,redacted.sh
-DOMAIN-SUFFIX,pterclub.net
+# DOMAIN-SUFFIX,pterclub.net
 
 # PT IRC
 DOMAIN,irc.animefriends.moe
